@@ -15,6 +15,8 @@
 
 - 🌱 I’m currently learning [**AWS Solutions Architect Associate**](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
+- 🏥 Check out my latest project [Demo](https://youtu.be/GErNfWkY9xk)[GitHub](https://github.com/jadriant/hackla)
+
 - 📫 How to reach me **jadrian2905@gmail.com**
 
 - 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/19RdoBGrxGFn1i4naDFPW1J2bO-unJk5-/view?usp=sharing)
