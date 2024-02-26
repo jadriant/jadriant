@@ -10,13 +10,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jadriant&label=Profile%20views&color=0e75b6&style=flat" alt="jadriant" /> </p>
 
 
-- 🔭 I’m currently working on **NEXUM**
+- 🔭 I’m currently building [**NEXUM**](https://www.linkedin.com/company/nexumvc/)
 
-- 🌱 I’m currently learning **AWS Solutions Architect Associate**
+- 🌱 I’m currently learning [**AWS Solutions Architect Associate**](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
 
 - 📫 How to reach me **jadrian2905@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19RdoBGrxGFn1i4naDFPW1J2bO-unJk5-/view?usp=sharing)
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/19RdoBGrxGFn1i4naDFPW1J2bO-unJk5-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
