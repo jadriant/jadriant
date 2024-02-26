@@ -1,8 +1,8 @@
-<h2 align="center">Hi 👋, I'm Jadrian</h2>
-<h4 align="center">I'm a passionate final-year student at the University of Southern California, where my academic adventure spans 🎓 Computer Science and Business for my undergraduate degree, and deep dives into Computer Science for my master's. Driven by ⚡️ ambition, 🛠 innovation, and an insatiable thirst for knowledge, I am dedicated to crafting cutting-edge solutions to some of the world’s most intricate challenges. My expertise lies in Software Engineering, Web Development, and Machine Learning. 
+<h1 align="center">Hi 👋, I'm Jadrian</h1>
+<h3 align="center">I'm a passionate final-year student at the University of Southern California, where my academic adventure spans 🎓 Computer Science and Business for my undergraduate degree, and deep dives into Computer Science for my master's. Driven by ⚡️ ambition, 🛠 innovation, and an insatiable thirst for knowledge, I am dedicated to crafting cutting-edge solutions to some of the world’s most intricate challenges. My expertise lies in Software Engineering, Web Development, and Machine Learning. 
 
 
-🚀 As I stand on the brink of entering the professional world, my ultimate ambition is to secure a role where I can contribute significantly to the field of technology, driving forward projects and innovations that matter. With a vision set on impacting the tech industry, I am on the lookout for my next great adventure.</h4>
+🚀 As I stand on the brink of entering the professional world, my ultimate ambition is to secure a role where I can contribute significantly to the field of technology, driving forward projects and innovations that matter. With a vision set on impacting the tech industry, I am on the lookout for my next great adventure.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.techinasia.com/wp-content/uploads/2023/08/1691053750_Newsletter-GIF-Growing-up-in-the-Indonesian-gaming-world-is-hard-to-do-1200x640-1200x640-1.gif">
 
